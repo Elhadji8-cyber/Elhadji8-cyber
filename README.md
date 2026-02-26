@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elhadji8-cyber
-- 👀 I’m interested in web developement and app.
-- 🌱 I’m currently learning to become frontend dev.
+- 👀 I’m interested in web developement and web3.
+- 🌱 I’m currently learning to become fullstack dev.
 - 💞️ I’m looking to collaborate on project.
 - 📫 How to reach me . on instagram
 - 😄 Pronouns: ...
